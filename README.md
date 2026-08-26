@@ -50,7 +50,7 @@ https://8.jpeg https://9.jpeg
 
 Storage Controller: SATA
 
-Storage Device: Aman_s Cloud Lab.vdi (25.00 GB)
+Storage Device: Soumalya_s Cloud Lab.vdi (25.00 GB)
 
 Optical Drive: Empty (ISO attached for installation)
 
